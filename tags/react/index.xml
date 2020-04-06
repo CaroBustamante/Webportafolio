@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on Carolina Bustamante Urzua</title>
+    <link>https://examplesite.com/tags/react/</link>
+    <description>Recent content in React on Carolina Bustamante Urzua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Mar 2020 12:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wave</title>
+      <link>https://examplesite.com/blog/post-3/</link>
+      <pubDate>Sat, 21 Mar 2020 12:07:47 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/post-3/</guid>
+      <description>En este ultimo caso, el plano1 de luz, la similitud que tiene el plano de luz con una ola en rompimiento me cautivo ya que me da la sensación de calma tal cual, como el mar, incluso en su estado más agresivo, lo encuentro armónico.</description>
+    </item>
+    
+    <item>
+      <title>Swirl</title>
+      <link>https://examplesite.com/blog/post-2/</link>
+      <pubDate>Sat, 21 Mar 2020 11:07:47 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/post-2/</guid>
+      <description>El plano3 de luz busca crear diferentes tonalidades y percepciones de luces/sombras no solo con el entrecruce de papel si no que también aplicando en los 3 círculos idénticos diferentes cortes interiores (triangular, hexagonal y cuadrada).</description>
+    </item>
+    
+    <item>
+      <title>Intertwined</title>
+      <link>https://examplesite.com/blog/post-1/</link>
+      <pubDate>Sat, 21 Mar 2020 10:07:47 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/post-1/</guid>
+      <description>La forma en que el plano7 de luz se entrecruza las tiras de papel me cautivo.</description>
+    </item>
+    
+  </channel>
+</rss>

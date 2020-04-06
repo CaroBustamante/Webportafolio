@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on Carolina Bustamante Urzua</title>
+    <link>https://examplesite.com/tags/html/</link>
+    <description>Recent content in HTML on Carolina Bustamante Urzua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grid</title>
+      <link>https://examplesite.com/blog/post-4/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/post-4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Volumen de luz&lt;/strong&gt; hecho a travez de papel vegetal los cuales tienen dibujados 2 tipos diferentes de grillas las cuales sirvieron para cortar y dobrar diferentes formas. Los cortes se fueron repitiendo en el mismo papel de forma sistematica.
+Los dobleces del papel cortado sirvio para obtener diferentes tonos de grises al igual que el trazado con el lapiz tinta para generar tonos más oscuros.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo tutorial</title>
+      <link>https://examplesite.com/blog/post-5/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/post-5/</guid>
+      <description>INSTALACION DE HUGO • Crearse una cuenta en GitHub (https://github.com/join?source=enterprise-plan-cloud). Si ya tiene una cuenta, asegurarse de que aún tiene acceso.</description>
+    </item>
+    
+  </channel>
+</rss>
